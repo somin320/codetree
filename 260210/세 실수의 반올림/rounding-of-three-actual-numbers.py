@@ -1,0 +1,7 @@
+num1 = int(input())
+num2 = int(input())
+num3 = int(input())
+print(f"{num1:.3f}")
+print(f"{num1:.3f}")
+print(num2)
+print(num3)
