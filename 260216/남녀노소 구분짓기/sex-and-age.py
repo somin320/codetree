@@ -2,11 +2,11 @@ sex = int(input())
 age = int(input())
 if age >= 19:
     if sex == 1:
-        print("Woman")
+        print("WOMAN")
     elif sex == 0:
-        print("Man")
+        print("MAN")
 else:
     if sex == 1:
-        print("Girl")
+        print("GIRL")
     elif sex == 0:
-        print("Boy")
+        print("BOY")
