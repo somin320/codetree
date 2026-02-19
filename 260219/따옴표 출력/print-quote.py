@@ -1,0 +1,2 @@
+quote = "He says \"It's a really simple sentence\"."
+print(quote)
