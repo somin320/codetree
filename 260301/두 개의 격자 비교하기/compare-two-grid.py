@@ -1,5 +1,5 @@
-rows = 4
-cols = 4
+rows, cols = map(int, input().split())
+
 matrix1 = [list(map(int, input().split())) for _ in range(rows)]
 matrix2 = [list(map(int, input().split())) for _ in range(rows)]
 
